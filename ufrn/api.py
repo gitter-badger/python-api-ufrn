@@ -1,0 +1,3 @@
+class UFRN(object):
+
+    pass
